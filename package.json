@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DexxDevv/linear-programming#readme",
   "dependencies": {
-    "highs": "^1.15.3"
+    "highs": "^1.15.3",
+    "readline-sync": "^1.4.10"
   }
 }
